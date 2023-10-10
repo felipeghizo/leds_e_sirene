@@ -12,4 +12,4 @@
 
 ## Esquema do projeto
 
-![Esquema do projeto](sirene_leds.jpg)
+![Esquema do projeto](sirene_leds.png)
